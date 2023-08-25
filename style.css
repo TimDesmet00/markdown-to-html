@@ -1,0 +1,58 @@
+body {
+    background-color: bisque;
+}
+
+h1,h2,h3,h4,h5 {
+    text-align: center;
+}
+
+footer {
+    border: 3px solid darkred;
+    padding: 15px;
+    text-align: center;
+}
+
+a{
+    margin: 15px;
+    font-size: 20px;
+}
+
+.ital {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+.img {
+    position: absolute;
+    top: -40px;
+    width: 200px;
+}
+
+.table{
+    border: 3px solid darkred;
+    width: 75%;
+    position: relative;
+    left: 250px;
+}
+
+th,td {
+    border: 1px solid darkred;
+    text-align: center;
+}
+
+.contenaire {
+    display: flex;
+    align-items: start;
+    justify-content: space-around;
+}
+
+.ul,.ol,.h5 {
+    font-size: 15px;
+    border: 3px solid darkred;
+    width: 300px;    
+}
+
+.h6 {
+    text-align: center;
+}
